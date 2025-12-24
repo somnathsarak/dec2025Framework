@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="dec2025Framework" verbose="2" parallel="methods" thread-count="2">
+    <test name="Selenium Tests">
+        <classes>
+            <!-- Test classes will be added here -->
+        </classes>
+    </test>
+</suite>
